@@ -8,5 +8,8 @@ canvas {
 main {
   position:absolute;
   top: 50px;
-  left: 850px;
+  left: 700px;
+}
+h1{
+  text-align: center;
 }
