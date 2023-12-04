@@ -5,6 +5,8 @@ html, body {
 canvas {
   display: block;
 }
-main{
-  text-align: center;
+main {
+  position:absolute;
+  top: 220px;
+  left: 290px;
 }
