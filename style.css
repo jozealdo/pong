@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: rgba(rgb(0rgb(52, 53, 52)0), rgb(70, 71, 70), rgb(0, 0, 0), alpha);
 }
 canvas {
   display: block;
@@ -13,3 +14,4 @@ main {
 h1{
   text-align: center;
 }
+
