@@ -1,11 +1,11 @@
 body {
-  background-color: rgb(59, 58, 58);
+  background-color: rgb(143, 143, 143);
 }
 canvas {
   display: block;
 }
 main {
-  position:absolute;
+  position: fixed;
   top: 50px;
   left: 250px;
 }
