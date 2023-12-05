@@ -1,4 +1,4 @@
-html, body {
+body {
   background-color: black;
 }
 canvas {
@@ -6,8 +6,7 @@ canvas {
 }
 main {
   position:absolute;
-  top: 70px;
-  left: 200px;
+  text-align: center;
 }
 h1{
   text-align: center;
