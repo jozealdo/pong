@@ -1,12 +1,13 @@
 body {
-  background-color: black;
+  background-color: rgb(59, 58, 58);
 }
 canvas {
   display: block;
 }
 main {
   position:absolute;
-  text-align: center;
+  top: 50px;
+  left: 250px;
 }
 h1{
   text-align: center;
